@@ -1,4 +1,4 @@
 PrivateFTP
 ==========
 
-My provate FTP server/repository
+My private FTP server/repository
